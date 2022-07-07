@@ -15,7 +15,10 @@ subProduct='g1'
 environment="Production"
 folder_name=r"F:/tmp"
 file_extension = ".json"
-aws_access_key_id = "ef16ac4e-8609-428a-8420-6bbbcc88a87f"
+adobe_service_token = 'ef16ac4e-8609-428a-8420-6bbbcc88a87f'
+aws_access_key_id = 'ef16ac4e-8609-428a-8420-6bbbcc88a89f'
+aws_secret_access_key = 'ef16ac4e-8609-428a-8420-6bbbcc88q87f'
+azure_sas_token = 'ef16ac4e-8609-428a-8420-6bbbcc88a87v'
 api_key='ef16ac4e-8609-428a-8420-6bbbcc88a87f'  ## Kindly download the API Key from ArmorCode website and place it here.
 tags=""
 
