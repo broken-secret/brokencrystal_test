@@ -1,6 +1,10 @@
 {
   "name": "broken-crystals",
   "version": "0.0.1",
+  "adobe_service_token" = "ef16ac4e-8609-428a-8420-6bbbcc88a87f",
+  "aws_access_key_id" = "ef16ac4e-8609-428a-8420-6bbbcc88a89f",
+  "aws_secret_access_key" = "ef16ac4e-8609-428a-8420-6bbbcc88q87f",
+  "azure_sas_token" = "ef16ac4e-8609-428a-8420-6bbbcc88a87v",
   "description": "",
   "author": "",
   "private": true,
